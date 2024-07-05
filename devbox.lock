@@ -1,0 +1,73 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "tmux@3.4": {
+      "last_modified": "2024-06-14T20:22:02Z",
+      "resolved": "github:NixOS/nixpkgs/3e6b9369165397184774a4b7c5e8e5e46531b53f#tmux",
+      "source": "devbox-search",
+      "version": "3.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/sckl83r64arfh8jhjcp05cpxsbk0a2f3-tmux-3.4",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/n0zrpzv3ip7xmz36pvjrma9032wn8kda-tmux-3.4-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/sckl83r64arfh8jhjcp05cpxsbk0a2f3-tmux-3.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vhi251kdj3bbbliyrjhjhq5nhs1443cy-tmux-3.4",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/12n3vrr0gn8rznxi0pgf9148w5yyczck-tmux-3.4-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vhi251kdj3bbbliyrjhjhq5nhs1443cy-tmux-3.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gjxwll06wxxdf090qxgrvyhsy70v0zy7-tmux-3.4",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/raxmkgmgaxilzw7wfhs6rrnvknwv0kk6-tmux-3.4-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gjxwll06wxxdf090qxgrvyhsy70v0zy7-tmux-3.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jr6k9cyg95ddwfdcr6rmrjhsx3shf7wc-tmux-3.4",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/nlk8wq6hf12nqibws8g3953fa4g1zzsk-tmux-3.4-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/jr6k9cyg95ddwfdcr6rmrjhsx3shf7wc-tmux-3.4"
+        }
+      }
+    }
+  }
+}
